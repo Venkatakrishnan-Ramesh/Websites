@@ -11,5 +11,4 @@ const ErrorNoHomePage = () => {
     </div>
   )
 }
-
 export default ErrorNoHomePage
